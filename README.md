@@ -1,6 +1,6 @@
 <h2>  Hi there, my name is Matthew and welcome to my profile 👋  </h2>
 
-I'm 23 years old and I am a Software Developer / Data Scientist. I'm interested in creating impact using data and currenlty exploring time series and natural language processing. 😄
+I'm 23 years old and I am a Software Developer / Data Scientist. I'm interested in creating impact using data and currently exploring time series and natural language processing. 😄
 
 ## 🔗 Let's Connect!
 <!--<a href="https://twitter.com/mervenoyann" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>-->
