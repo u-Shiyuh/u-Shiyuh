@@ -31,7 +31,7 @@ I’m open to projects that combine **AI, automation, and data storytelling** �
 ---
 
 ### 📫 Reach Me  
-- [LinkedIn]([https://www.linkedin.com/in/kingmatthewochoa](https://www.linkedin.com/in/king-matthew-ochoa/))  
+- [LinkedIn](https://www.linkedin.com/in/king-matthew-ochoa)  
 - [GitHub](https://github.com/u-Shiyuh)  
 - 📧 **xmatthewochoa@gmail.com**
 
