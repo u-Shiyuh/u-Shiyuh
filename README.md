@@ -16,7 +16,7 @@ On the side, I’m helping **[HELP.NGO](https://www.help.ngo/)** build **AI-driv
 ### 🌱 Currently Learning  
 - **LLM fine-tuning** and model optimization  
 - **Prompt engineering** for domain-specific workflows  
-- **MLOps** with AWS SageMaker and GitHub Actions  
+- **MLOps** with AWS SageMaker
 
 ---
 
