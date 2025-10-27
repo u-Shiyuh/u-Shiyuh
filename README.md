@@ -28,7 +28,7 @@ On the side, I’m helping **[HELP.NGO](https://www.help.ngo/)** build **AI-driv
 ---
 
 ### 🤝 Collaboration  
-Open to projects that merge **AI, automation, and data storytelling** — from prototype to production.  
+Open to projects that merge **AI, automation, and data storytelling** -- from prototype to production.  
 
 ---
 
