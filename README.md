@@ -1,41 +1,43 @@
 # 👋 Hi, I’m King Matthew Ochoa  
 
-I’m a **Senior Data Scientist** passionate about transforming data into intelligent systems. My work focuses on **AI/ML integration, cloud architecture, and generative AI** — helping organizations unlock real value through applied machine learning and automation.
+I’m a **Senior Data Scientist** who turns data into real, working intelligence. My work centers on **AI/ML systems, cloud architecture, and generative AI**, helping organizations move from ideas to scalable, production-ready solutions.  
+
+On the side, I’m helping **[HELP.NGO](https://www.help.ngo/)** build **AI-driven, scalable systems** to support their digital transformation and humanitarian initiatives.  
 
 ---
 
 ### 🔭 What I’m Working On  
-- Integrating **AWS Bedrock** for scalable AI chatbot and mapping systems  
-- Building **Generative AI training programs** for teams at FactSet Manila  
-- Experimenting with **multimodal AI** and real-time inference pipelines  
+- Deploying **AWS Bedrock** for AI-powered chatbot and mapping platforms  
+- Leading **Generative AI training programs** at FactSet Manila  
+- Exploring **multimodal AI** and **real-time inference** for smarter automation  
 
 ---
 
-### 🌱 What I’m Learning  
-- Advanced **LLM fine-tuning** and optimization  
-- **Prompt engineering** for domain-specific AI workflows  
-- **MLOps** with AWS SageMaker & GitHub Actions  
+### 🌱 Currently Learning  
+- **LLM fine-tuning** and model optimization  
+- **Prompt engineering** for domain-specific workflows  
+- **MLOps** with AWS SageMaker and GitHub Actions  
 
 ---
 
-### 💬 Ask Me About  
-- Cloud-based AI deployments (AWS, Bedrock, Lambda, EC2)  
-- Data science pipelines and ML model productionization  
-- AI upskilling and training for enterprise teams  
+### 💬 Let’s Talk About  
+- AI deployment in the cloud (AWS, Bedrock, Lambda, EC2)  
+- Scalable data science and ML production pipelines  
+- Building AI literacy and upskilling enterprise teams  
 
 ---
 
-### 🤝 Let’s Collaborate  
-I’m open to projects that combine **AI, automation, and data storytelling** — from prototypes to production-grade systems.
+### 🤝 Collaboration  
+Open to projects that merge **AI, automation, and data storytelling** — from prototype to production.  
 
 ---
 
-### 📫 Reach Me  
+### 📫 Contact  
 - [LinkedIn](https://www.linkedin.com/in/king-matthew-ochoa)  
 - [GitHub](https://github.com/u-Shiyuh)  
-- 📧 **xmatthewochoa@gmail.com**
+- 📧 **xmatthewochoa@gmail.com**  
 
 ---
 
 ### ⚡ Fun Fact  
-I free dive, train regularly, and still find time to play **League of Legends** 🎮  
+I like my coffee with Oatmilk :D
