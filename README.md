@@ -7,9 +7,9 @@ On the side, I’m helping **[HELP.NGO](https://www.help.ngo/)** build **AI-driv
 ---
 
 ### 🔭 What I’m Working On  
-- Deploying **AWS Bedrock** for AI-powered chatbot
-- Co-led **Generative AI training programs** at FactSet Manila  
-- Exploring **multimodal AI** and **real-time inference** for smarter automation  
+- **Deploying AWS Bedrock** to build scalable AI-powered chatbots
+- **Co-led Generative AI training program** at FactSet Manila
+- **Exploring multimodal AI and near real-time inference** for smarter automation
 
 ---
 
