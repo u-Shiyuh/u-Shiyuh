@@ -1,6 +1,6 @@
 # 👋 Hi, I’m King Matthew Ochoa  
 
-I’m a **Senior Data Scientist** who turns data into real, working intelligence. My work centers on **AI/ML systems, cloud architecture, and generative AI**, helping organizations move from ideas to scalable, production-ready solutions.  
+I’m a **Senior Data Scientist** / **AI Engineer**. My interest and passion on **AI/ML systems, cloud architecture, and generative AI**, helping organizations move from ideas to scalable, production-ready solutions.  
 
 On the side, I’m helping **[HELP.NGO](https://www.help.ngo/)** build **AI-driven, scalable systems** to support their digital transformation and humanitarian initiatives.  
 
