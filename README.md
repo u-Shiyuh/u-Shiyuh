@@ -35,8 +35,8 @@ Open to projects that merge **AI, automation, and data storytelling** -- from pr
 ### 📫 Contact  
 - [LinkedIn](https://www.linkedin.com/in/king-matthew-ochoa)  
 - [GitHub](https://github.com/u-Shiyuh)  
+- [Medium](https://medium.com/@xmatthewochoa)
 - 📧 **xmatthewochoa@gmail.com**  
-
 ---
 
 ### ⚡ Fun Fact  
