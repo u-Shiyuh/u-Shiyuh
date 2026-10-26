@@ -9,9 +9,8 @@ On the side, I’m helping **[HELP.NGO](https://www.help.ngo/)** build **AI-driv
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-01A88D?style=flat&logo=amazonwebservices&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![Step Functions](https://img.shields.io/badge/Step%20Functions-E7157B?style=flat&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 ---
 
