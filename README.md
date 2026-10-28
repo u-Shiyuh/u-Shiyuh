@@ -1,8 +1,6 @@
 # 👋 Hi, I’m King Matthew Ochoa
 
-I’m a **Senior Data Scientist / AI Engineer** passionate about **AI/ML systems, cloud architecture, and generative AI**, helping organizations move from ideas to scalable, production-ready solutions.
-
-On the side, I’m helping **[HELP.NGO](https://www.help.ngo/)** build **AI-driven, scalable systems** to support their digital transformation and humanitarian initiatives.
+**Senior Data Scientist / AI Engineer** building production GenAI on AWS. On the side, helping **[HELP.NGO](https://www.help.ngo/)** with AI for humanitarian work.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -12,47 +10,19 @@ On the side, I’m helping **[HELP.NGO](https://www.help.ngo/)** build **AI-driv
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
----
-
-### 🔭 What I’m Working On
-- **Multi-agent AI platforms** on AWS Bedrock: agents for document parsing, classification, and workflow automation
-- **Serverless data pipelines** with Step Functions and Lambda, ingesting domain data into **vector databases** for RAG
-- **Infrastructure as Code** with Terraform for repeatable, multi-environment AI deployments
-- **Cloud cost optimization**: event-driven scheduling (EventBridge + Lambda) to scale non-production environments on demand
-
----
+### 🔭 Working On
+- Multi-agent AI platforms on Bedrock
+- RAG pipelines and vector databases
+- Terraform and cloud cost optimization
 
 ### 🏆 Highlights
-- **Co-led a Generative AI training program** at FactSet Manila, upskilling teams on practical GenAI
-- Took AI chatbots and agentic systems from **prototype to production** on AWS
+- Shipped AI chatbots and agents used by the **United Nations** on a humanitarian mission
+- Co-led a GenAI training program at FactSet Manila
 
----
-
-### 🌱 Currently Learning
-- **Agentic orchestration** and multi-agent design patterns
-- **LLM evaluation** and retrieval quality tuning for RAG
-- **LLM fine-tuning** and model optimization
-
----
-
-### 💬 Let’s Talk About
-- AI deployment in the cloud (AWS, Bedrock, Lambda, Step Functions)
-- Scalable data science and ML production pipelines
-- Building AI literacy and upskilling enterprise teams
-
----
-
-### 🤝 Collaboration
-Open to projects that merge **AI, automation, and data storytelling**, from prototype to production.
-
----
+### 🌱 Learning
+Agentic orchestration · LLM evaluation · Fine-tuning
 
 ### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/king-matthew-ochoa)
-- [Medium](https://medium.com/@xmatthewochoa)
-- 📧 **xmatthewochoa [at] gmail [dot] com**
+[LinkedIn](https://www.linkedin.com/in/king-matthew-ochoa) · [Medium](https://medium.com/@xmatthewochoa) · [Email](mailto:xmatthewochoa@gmail.com)
 
----
-
-### ⚡ Fun Fact
-I like my coffee with oat milk :D
+☕ Oat milk coffee, always.
