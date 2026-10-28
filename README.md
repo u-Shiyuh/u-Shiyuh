@@ -24,8 +24,8 @@
 [![ML Engineer Associate](https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-1A73E8?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/king-matthew-ochoa)
 [![AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/king-matthew-ochoa)
 [![Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/king-matthew-ochoa)
-[![Data Analytics Specialty](https://img.shields.io/badge/AWS-Data%20Analytics%20Specialty-6E7681?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/king-matthew-ochoa)
-[![Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-6E7681?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/king-matthew-ochoa)
+[![Data Analytics Specialty](https://img.shields.io/badge/AWS-Data%20Analytics%20Specialty-8C4FFF?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/king-matthew-ochoa)
+[![Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-1A73E8?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/king-matthew-ochoa)
 
 ### 🌱 Learning
 Agentic orchestration · LLM evaluation · Fine-tuning
