@@ -25,4 +25,5 @@ Agentic orchestration · LLM evaluation · Fine-tuning
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/king-matthew-ochoa) · [Medium](https://medium.com/@xmatthewochoa) · [Email](mailto:xmatthewochoa@gmail.com)
 
-☕ Oat milk coffee, always.
+### ⚡ Fun Fact
+I like my coffee with oat milk :D
