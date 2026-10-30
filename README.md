@@ -17,7 +17,7 @@
 
 ### 🏆 Highlights
 - Shipped AI chatbots and agents used by the **United Nations** on a humanitarian mission
-- Co-led a GenAI training program at FactSet Manila
+- Led a GenAI training program at FactSet Manila
 
 ### 🎓 AWS Certified
 [![ML Specialty](https://img.shields.io/badge/AWS-ML%20Specialty-8C4FFF?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/king-matthew-ochoa)
